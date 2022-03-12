@@ -1,15 +1,24 @@
 {
-  "users": [
-    {
-      "email": "asterix@iodigital.com",
-      "password": "$2a$10$z5bcg/Sayb18Fg452kIzXOEA/AaSsDrg9JvByNBwKWft6R0V9d.a2",
-      "id": 1
-    }
-  ],
   "todos": [
     {
       "id": 1,
-      "name": "test"
+      "label": "Create React app",
+      "done": true
+    },
+    {
+      "id": 2,
+      "label": "Connect to API",
+      "done": false
+    },
+    {
+      "id": 3,
+      "label": "???",
+      "done": false
+    },
+    {
+      "id": 4,
+      "label": "Profit",
+      "done": false
     }
   ]
 }

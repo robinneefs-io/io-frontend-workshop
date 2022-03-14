@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "label": "Create React app",
+      "done": true
+    },
+    {
+      "id": 2,
+      "label": "Connect to API",
+      "done": false
+    },
+    {
+      "id": 3,
+      "label": "???",
+      "done": false
+    },
+    {
+      "id": 4,
+      "label": "Profit",
+      "done": false
+    }
+  ]
+}
